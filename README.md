@@ -1,5 +1,3 @@
-# Startup Weekend Zürich
-
 # Startup Weekend Zürich (SWZ) Resources
 
 Welcome to the official resource repository for Startup Weekend Zürich! This repository contains valuable materials to
